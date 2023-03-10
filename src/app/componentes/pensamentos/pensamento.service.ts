@@ -8,8 +8,9 @@ import { Observable } from 'rxjs'
 })
 export class PensamentoService {
 
-  //private readonly API = 'http://localhost:3000/pensamentos';
-  private readonly API = 'https://angular-memoteca-jsonserver.vercel.app/pensamentos';
+  private readonly API = 'http://localhost:3000/pensamentos';
+  //private readonly API = 'https://angular-memoteca-jsonserver.vercel.app/pensamentos';
+ // private readonly API = 'https://angular-memoteca-5b5b9-default-rtdb.firebaseio.com/pensamentos.json';
 
   constructor(private http: HttpClient) { }
 
@@ -30,4 +31,5 @@ export class PensamentoService {
     const url = `${this.API}/${id}`;
     return this.http.get<Pensamento>(url);
   }
+
 }

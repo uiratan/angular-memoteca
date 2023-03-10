@@ -1,94 +1,16 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Diuretics paradis num copo é motivis de denguis.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!Paisis, filhis, espiritis santis.Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.",
-      "autoria": "Mussum de Éfeso",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 2,
-      "conteudo": "O ser é e o não-ser não é.",
-      "autoria": "Parmênides de Eleia",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 3,
-      "conteudo": "Só sei que nada sei.",
-      "autoria": "Sócrates",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 4,
-      "conteudo": "Uma vida sem reflexão não vale a pena ser vivida.",
-      "autoria": "Sócrates",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 5,
-      "conteudo": "Creio para compreender e compreendo para crer melhor.",
-      "autoria": "Santo Agostinho",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 6,
-      "conteudo": "O desordenado amor por si mesmo é a causa de todos os pecados.",
-      "autoria": "São Tomás de Aquino",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 7,
-      "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Diuretics paradis num copo é motivis de denguis.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!Paisis, filhis, espiritis santis.Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.",
-      "autoria": "Mussum Smith",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 8,
-      "conteudo": "Existe apenas um único erro inato, que é o de acreditarmos que vivemos para sermos felizes.",
-      "autoria": "Schopenhauer",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 9,
-      "conteudo": "Os limites de minha linguagem significam os limites de meu mundo.",
-      "autoria": "Wittgenstein",
-      "modelo": "modelo3"
-    },
-    {
       "conteudo": "A liberdade, como plenitude do ato humano, implica a ética, do contrário é a lei das selvas. A liberdade sem ética é a falsa liberdade, porque ofende a liberdade alheia.",
       "autoria": "Mario Ferreira dos Santos",
       "modelo": "modelo1",
-      "id": 10
-    },
-    {
-      "conteudo": "O sentimento segue aquilo que amamos. Se amamos o que é verdadeiro, bom e belo, ele nos conduzirá para lá. O problema, portanto, não é sentir, mas amar as coisas certas. Do mesmo modo, o pensamento não é guia de si próprio, mas se deixa levar pelos amores que temos. Sentir ou conhecer, nenhum dos dois é um guia confiável. Antes de poder seguir qualquer um dos dois, é preciso aprender a escolher os objetos de amor – e o critério dessa escolha é: Quais são as coisas que, se dependessem de mim, deveriam durar para sempre? Há coisas que são boas por alguns instantes, outras por algum tempo. Só algumas são para sempre.",
-      "autoria": "Olavo de Carvalho",
-      "modelo": "modelo3",
-      "id": 11
-    },
-    {
-      "conteudo": "Não te irrites se te pagarem mal um benefício: antes cair das nuvens que de um terceiro andar.",
-      "autoria": "Machado de Assis",
-      "modelo": "modelo2",
-      "id": 12
-    },
-    {
-      "conteudo": "Ver muito lucidamente prejudica o sentir demasiado. E os gregos viam muito lucidamente. Por isso pouco sentiam. Daí a sua perfeita execução da obra de arte.",
-      "autoria": "Fernando Pessoa",
-      "modelo": "modelo2",
-      "id": 13
-    },
-    {
-      "conteudo": "A suspeita sempre persegue a consciência culpada; o ladrão vê em cada sombra um policial.",
-      "autoria": "William Shakespeare",
-      "modelo": "modelo1",
-      "id": 15
+      "id": 1
     },
     {
       "conteudo": "Pindureta Num vídeo visto mais de 3 milhões de vezes no YouTube, Mussum pede ao garçom mais uma \"ampola do diurético\" e pede para pagar depois. \"Faz uma pindureta, pendura essa conta!\"",
-      "autoria": "Mario Ferreira dos Santos",
+      "autoria": "Mussum",
       "modelo": "modelo3",
-      "id": 17
+      "id": 2
     }
   ]
 }

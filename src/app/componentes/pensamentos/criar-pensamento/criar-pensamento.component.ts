@@ -2,6 +2,7 @@ import { PensamentoService } from './../pensamento.service';
 import { Pensamento } from './../pensamento';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { map, reduce } from 'rxjs';
 
 @Component({
   selector: 'app-criar-pensamento',
@@ -25,12 +26,14 @@ export class CriarPensamentoComponent implements OnInit {
   }
 
   criarPensamento() {
-    this.service.criar(this.pensamento).subscribe();
-    this.router.navigate(['/']);
+    // this.pensamento.id = Math.floor(Math.random() * 10000);
+    this.service.criar(this.pensamento).subscribe(() => {
+      this.router.navigate(['/listarPensamento']);
+    });
   }
 
   cancelar() {
-    this.router.navigate(['/']);
+    this.router.navigate(['/listarPensamento']);
   }
 
 }
