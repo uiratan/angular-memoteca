@@ -26,11 +26,11 @@ export class CriarPensamentoComponent implements OnInit {
 
   criarPensamento() {
     this.service.criar(this.pensamento).subscribe();
-    this.router.navigate(['/listarPensamento']);
+    this.router.navigate(['/']);
   }
 
   cancelar() {
-    this.router.navigate(['/listarPensamento']);
+    this.router.navigate(['/']);
   }
 
 }

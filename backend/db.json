@@ -65,6 +65,30 @@
       "autoria": "Olavo de Carvalho",
       "modelo": "modelo3",
       "id": 11
+    },
+    {
+      "conteudo": "Não te irrites se te pagarem mal um benefício: antes cair das nuvens que de um terceiro andar.",
+      "autoria": "Machado de Assis",
+      "modelo": "modelo2",
+      "id": 12
+    },
+    {
+      "conteudo": "Ver muito lucidamente prejudica o sentir demasiado. E os gregos viam muito lucidamente. Por isso pouco sentiam. Daí a sua perfeita execução da obra de arte.",
+      "autoria": "Fernando Pessoa",
+      "modelo": "modelo2",
+      "id": 13
+    },
+    {
+      "conteudo": "A suspeita sempre persegue a consciência culpada; o ladrão vê em cada sombra um policial.",
+      "autoria": "William Shakespeare",
+      "modelo": "modelo1",
+      "id": 15
+    },
+    {
+      "conteudo": "Pindureta Num vídeo visto mais de 3 milhões de vezes no YouTube, Mussum pede ao garçom mais uma \"ampola do diurético\" e pede para pagar depois. \"Faz uma pindureta, pendura essa conta!\"",
+      "autoria": "Mussum",
+      "modelo": "modelo3",
+      "id": 18
     }
   ]
 }
